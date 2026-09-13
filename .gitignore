@@ -1,1 +1,2 @@
-data/yellow_tripdata_2016-03.csv
+data/input/yellow_tripdata_2016-03.csv
+data/output/yellow_tripdata_2016-03_cleaned.parquet
